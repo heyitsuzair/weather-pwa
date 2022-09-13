@@ -1,1 +1,1 @@
-Progressive Web App Created By Muhammad Uzair. Live at https://weather-pwa-uzair.netlify.app Made With :heart: By UZAIR
+Progressive Web App Created By Muhammad Uzair. Live at https://weather-pwa-uzair.vercel.app Made With :heart: By UZAIR
